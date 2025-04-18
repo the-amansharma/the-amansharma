@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Machine Learning, AI**
 
-- 💬 Ask me about **Data Analysis, Content Writing, Music**
+- 💬 Ask me about **Data Analysis | Content Writing | Music**
 
 - 📫 How to reach me **work.amanshrma@gmail.com**
 
